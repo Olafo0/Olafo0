@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Olafo0
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on NOTHING
 - 📫 How to reach me, discord Olafo0#4215
 
 <!---
