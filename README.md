@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Olafo0
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python 
-- 📫 How to reach me, discord Olafo0#4215
+- I'm Shit
 
 <!---
 Olafo0/Olafo0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
